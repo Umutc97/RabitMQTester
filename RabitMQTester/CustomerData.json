@@ -1,0 +1,28 @@
+[
+  {
+    "UserId": 14,
+    "Properties": [
+      {
+        "Key": "TotalRideCount",
+        "Value": 17171
+      },
+      {
+        "Key": "TotalRideRevenue",
+        "Value": 15009
+      }
+    ]
+  },
+  {
+    "UserId": 15,
+    "Properties": [
+      {
+        "Key": "TotalRideCount",
+        "Value": 2002
+      },
+      {
+        "Key": "TotalRideRevenue",
+        "Value": 29988
+      }
+    ]
+  }
+]

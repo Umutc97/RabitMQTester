@@ -1,0 +1,22 @@
+[
+  {
+    "$distinct_id": 2668842,
+    "TotalRideCount": 44,
+    "TotalRevenue": 781.82,
+    "TotalRideRevenue": 781.82,
+    "TotalRideDistance": 41593,
+    "TotalRideTime": 13972,
+    "FirstRideDate": "2023-01-02 09:31:25.277",
+    "LastRideDate": "2023-07-22 08:46:42.000"
+  },
+  {
+    "$distinct_id": 2668842,
+    "TotalRideCount": 44,
+    "TotalRevenue": 781.82,
+    "TotalRideRevenue": 781.82,
+    "TotalRideDistance": 41593,
+    "TotalRideTime": 13972,
+    "FirstRideDate": "2023-01-02 09:31:25.277",
+    "LastRideDate": "2023-07-22 08:46:42.000"
+  }
+]
